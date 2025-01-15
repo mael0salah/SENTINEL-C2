@@ -1,17 +1,10 @@
 
 # 🚨 **Sentinel C2** 🚨
 
-```
-Sentinel C2 est une plateforme de "Command-and-Control as a Service" (C2aaS)
-conçue pour simplifier et optimiser l'accès à une infrastructure C2.
-En offrant un accès à un arsenal puissant de fonctionnalités, cette solution
-est idéale pour les utilisateurs de tout niveaux. Voici une description détaillée 
-des services rendus (Payd) :
-```
 
 ## **1. Command-and-Control (C2)** 💻
 
-- **🔧 Contrôle :**
+- **🔧 Contrôle à distance :**
   - Contrôle total des systèmes compromis, que ce soit pour surveiller les activités, déployer des charges utiles supplémentaires ou exécuter des programmes spécifiques.
   - Compatible avec divers protocoles de communication pour s'adapter aux configurations réseau.
 - **💡 Exécution de commandes :**
@@ -24,12 +17,11 @@ des services rendus (Payd) :
 
 ## **2. Attaques DDoS (Distributed Denial of Service)** 🌐
 
-- **⚙️ Options :**
+- **⚙️ Options personnalisées :**
   - Configurez l'intensité, la durée et le type d'attaque (UDP flood, SYN flood, etc.)
   - Tableau de bord en temps réel pour suivre l'efficacité de l'attaque + Système de Dstat.
 - **💪 Infrastructure robuste :**
   - Utilisation d'un réseau d'appareils compromis pour garantir des attaques massives et difficiles à contrer. Avec l'abonnement à 25$/mois, vous attaquez uniquement avec vos machines. Si vous passez au plan à 50$/mois, vous aurez accès à l'intégralité des machines infectées par l'équipe de Sentinel C2 et de ses nombreux utilisateurs.
-
 
 <p align="center">
   <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
@@ -55,7 +47,7 @@ des services rendus (Payd) :
 - **🔄 Mises à jour automatisées :**
   - Les charges utiles peuvent être modifiées et mises à jour sans intervention directe de l'utilisateur final (Auto Progress Mode - On).
 
-## **5. Compatibilité :** 🌏
+## **5. Compatibilité multiplateforme** 🌏
 
 - **💻 Systèmes pris en charge :**
   - Fonctionne parfaitement sur **Windows**, **Linux**, et également via des scripts **Python**.
@@ -78,13 +70,13 @@ des services rendus (Payd) :
   <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
 </p>
 
-## **7. Anonymat renforcé :** 🕵️‍♂️
+## **7. Anonymat renforcé** 🕵️‍♂️
 
 - **🛡️ Protection de l'utilisateur :**
   - Utilisation de proxies, VPN et réseaux décentralisés.
   - Aucun stockage d’informations personnelles sur les serveurs de la plateforme.
 - **🔐 Persistance :**
-  - Mécanismes avancés pour l'autobfuscation et le métamorphisme. (Soon)
+  - Mécanismes avancés pour l'autobfuscation et le métamorphisme. (Bientôt)
 
 <p align="center">
   <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
@@ -93,12 +85,12 @@ des services rendus (Payd) :
 ## **8. Propagation automatisée et exploitation avancée** 🚀
 
 - **🔍 Scan automatique des ports :**
-  - Identifiez rapidement les points d’entrée exploitables sur des réseaux entiers. Le système détecte les ports ouverts et les services vulnérables en quelques secondes. (Soon)
+  - Identifiez rapidement les points d’entrée exploitables sur des réseaux entiers. Le système détecte les ports ouverts et les services vulnérables en quelques secondes. (Bientôt)
 - **⚠️ Exploitation de vulnérabilités connues (CVE) :**
-  - Base de données actualisée de CVE pour automatiser l’exploitation des failles déjà connues (élevage de privilèges, etc.). (Soon)
-  - Compatible avec des frameworks comme Metasploit pour une exploitation étendue. (Soon)
+  - Base de données actualisée de CVE pour automatiser l’exploitation des failles déjà connues (élevage de privilèges, etc.). (Bientôt)
+  - Compatible avec des frameworks comme Metasploit pour une exploitation étendue. (Bientôt)
 - **🐛 Propagation :**
-  - Distribution automatique de charges utiles malveillantes via des vecteurs comme les partages réseaux, e-mails infectés, ou services cloud compromis. (Soon)
+  - Distribution automatique de charges utiles malveillantes via des vecteurs comme les partages réseaux, e-mails infectés, ou services cloud compromis. (Bientôt)
   - Fonctionne de manière autonome pour maximiser la propagation sans intervention.
 
 <p align="center">
