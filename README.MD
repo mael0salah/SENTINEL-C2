@@ -10,14 +10,14 @@ des services rendus (Payd) :
 ```
 
 ## **1. Command-and-Control (C2)** 💻
-
+```
 - **🔧 Contrôle à distance :**
   - Contrôle total des systèmes compromis, que ce soit pour surveiller les activités, déployer des charges utiles supplémentaires ou exécuter des programmes spécifiques.
   - Compatible avec divers protocoles de communication pour s'adapter aux configurations réseau.
 - **💡 Exécution de commandes :**
   - Lancez des commandes arbitraires directement depuis la console d'administration. Parfait pour automatiser des tâches malveillantes ou déployer rapidement un autre payload sur toutes les machines infectées.
   - Journalisation des commandes pour un suivi optimal des actions effectuées.
-
+```
 ## **2. Attaques DDoS (Distributed Denial of Service)** 🌐
 
 - **⚙️ Options personnalisées :**
