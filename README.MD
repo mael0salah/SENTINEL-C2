@@ -11,10 +11,6 @@
   - Lancez des commandes arbitraires directement depuis la console d'administration. Parfait pour automatiser des tâches malveillantes ou déployer rapidement un autre payload sur toutes les machines infectées.
   - Journalisation des commandes pour un suivi optimal des actions effectuées.
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
-
 ## **2. Attaques DDoS (Distributed Denial of Service)** 🌐
 
 - **⚙️ Options personnalisées :**
@@ -23,10 +19,6 @@
 - **💪 Infrastructure robuste :**
   - Utilisation d'un réseau d'appareils compromis pour garantir des attaques massives et difficiles à contrer. Avec l'abonnement à 25$/mois, vous attaquez uniquement avec vos machines. Si vous passez au plan à 50$/mois, vous aurez accès à l'intégralité des machines infectées par l'équipe de Sentinel C2 et de ses nombreux utilisateurs.
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
-
 ## **3. Minage de cryptomonnaie** 💰
 
 - **🛠️ Exploitation des ressources :**
@@ -34,10 +26,6 @@
   - Suivi des gains via un tableau de bord centralisé.
 - **💻 Support multi-plateformes :**
   - Compatible avec une large variété de matériels pour maximiser les profits.
-
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
 
 ## **4. Hébergement de charges utiles résistantes** 🔒
 
@@ -54,10 +42,6 @@
 - **🔧 Facilité d’intégration :**
   - Les outils peuvent être configurés pour s'exécuter de manière autonome grâce à l'Auto Progress Mode - On.
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
-
 ## **6. Simplicité d’accès et d’utilisation** 🖱️
 
 - **📊 Interface intuitive :**
@@ -66,10 +50,6 @@
 - **🛠️ Support technique inclus :**
   - Assistance via des canaux cryptés pour résoudre rapidement les problèmes ou obtenir des conseils rapidement.
 
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
-
 ## **7. Anonymat renforcé** 🕵️‍♂️
 
 - **🛡️ Protection de l'utilisateur :**
@@ -77,10 +57,6 @@
   - Aucun stockage d’informations personnelles sur les serveurs de la plateforme.
 - **🔐 Persistance :**
   - Mécanismes avancés pour l'autobfuscation et le métamorphisme. (Bientôt)
-
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
 
 ## **8. Propagation automatisée et exploitation avancée** 🚀
 
@@ -92,10 +68,6 @@
 - **🐛 Propagation :**
   - Distribution automatique de charges utiles malveillantes via des vecteurs comme les partages réseaux, e-mails infectés, ou services cloud compromis. (Bientôt)
   - Fonctionne de manière autonome pour maximiser la propagation sans intervention.
-
-<p align="center">
-  <img src="https://github.com/mael0salah/MAEL0SALAH/blob/main/LINE.PNG?raw=true" alt="Line" />
-</p>
 
 ## 💸 **Tarification Sentinel C2 :**
 
