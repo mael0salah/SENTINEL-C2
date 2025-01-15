@@ -1,6 +1,4 @@
-
-# 🚨 **Sentinel C2** 🚨
-
+<h1 align="center">Sentinel C2 🚀</h1>
 
 ## **1. Command-and-Control (C2)** 💻
 
