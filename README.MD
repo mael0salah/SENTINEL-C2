@@ -82,3 +82,5 @@ Sentinel C2 is much more than just a tool : it's a complete solution designed to
 Whether you're a novice seeking ready-to-use tools or a professional looking to perfect your operations, this platform meets all your needs.
 
 Thus, the continuation of the Iris C2 project. Thanks to everyone who supported the project financially and in its development.
+
+PROOF : [PROOF.MP4](https://github.com/mael0salah/SENTINEL-C2/raw/refs/heads/main/PROOF.MP4)
