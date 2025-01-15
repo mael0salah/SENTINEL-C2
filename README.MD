@@ -1,7 +1,9 @@
 
 # 🚨 **Sentinel C2** 🚨
 
+```
 Sentinel C2 est une plateforme de "Command-and-Control as a Service" (C2aaS) conçue pour simplifier et optimiser l'accès à une infrastructure C2. En offrant un accès à un arsenal puissant de fonctionnalités, cette solution est idéale pour les utilisateurs de tous niveaux en informatique. Voici une description détaillée des services rendus (Payd) :
+```
 
 ## **1. Command-and-Control (C2)** 💻
 
